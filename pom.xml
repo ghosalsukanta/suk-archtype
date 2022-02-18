@@ -19,8 +19,8 @@
 
 
     <groupId>com.adobe.aem</groupId>
-    <artifactId>aem-project-archetype</artifactId>
-    <version>36-SNAPSHOT</version>
+    <artifactId>aem-sghosal-archetype</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
     <name>AEM Sghosal Archetype</name>
